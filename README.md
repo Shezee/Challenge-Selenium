@@ -9,7 +9,7 @@ This automation project performs the following;
 - Verifys that you are on the page of the correct movie
 
 ## How to run
-1. Please clone from master
+1. Please clone from main
 2. Open the project in any IDE (Eclipse/IntelliJ)
 3. Right-click on the testng.xml file and select "Run '...\testng.xml'"
 The scripts should run successfully
