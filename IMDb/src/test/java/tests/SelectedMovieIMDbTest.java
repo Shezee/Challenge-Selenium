@@ -1,3 +1,5 @@
+package tests;
+
 import objectrepo.SelectedMoviePageObjects;
 import utilities.Constants;
 import utilities.Driver;

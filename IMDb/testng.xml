@@ -6,8 +6,8 @@
     </listeners>
     <test verbose="2" preserve-order="true" name="C:/Users/AJ/IdeaProjects/IMDb">
         <classes>
-            <class name = "HomePageIMDbTest"/>
-            <class name = "SelectedMovieIMDbTest"/>
+            <class name = "tests.HomePageIMDbTest"/>
+            <class name = "tests.SelectedMovieIMDbTest"/>
         </classes>
     </test>
 </suite>

@@ -1,3 +1,5 @@
+package tests;
+
 import objectrepo.HomePageIMDbObjects;
 import utilities.Constants;
 import utilities.Driver;
